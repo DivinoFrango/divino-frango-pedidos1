@@ -1,6 +1,6 @@
 # Divino Frango — Pedidos
 
-Sistema **independente** do painel de vendas/compras (aquele projeto continua existindo separado, sem nenhuma ligação com este). Este projeto tem só uma função: **clientes fazem pedidos pela internet, e você aceita ou recusa em tempo real.**
+Sistema **independente** do painel de vendas/compras (aquele projeto continua existindo separado, sem nenhuma ligação com este). Este projeto tem só uma função: **clientes   fazem pedidos pela internet, e você aceita ou recusa em tempo real.**
 
 Dois sites em um projeto:
 
