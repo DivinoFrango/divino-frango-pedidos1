@@ -4,7 +4,7 @@ Sistema **independente** do painel de vendas/compras (aquele projeto continua ex
 
 Dois sites em um projeto:
 
-- **`/` (raiz)** — site público do cliente: cardápio, carrinho, formulário de pedido. É esse link que você compartilha.
+- **`/` (raiz)** — site público do cliente: cardápio, carri nho, formulário de pedido. É esse link que você compartilha.
 - **`/admin`** — painel privado onde você vê os pedidos chegando (com som de aviso) e aceita, recusa, conclui ou imprime.
 
 ---
